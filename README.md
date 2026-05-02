@@ -1,7 +1,18 @@
 # 👋 Hi, I'm Amran
 
-💻 **Frontend Developer in Progress**
-🚀 Passionate about building modern and responsive web applications
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8e/5a/6c/8e5a6c0b6d9f0c4b0a6b0c5a7e9e0f6a.gif" width="300" />
+</p>
+
+<p align="center">
+  <i>Rin Shima vibes while coding 🏕️💻</i>
+</p>
+
+---
+
+## 💻 Frontend Developer in Progress
+
+🚀 Passionate about building modern and responsive web applications  
 
 ---
 
@@ -16,45 +27,43 @@
 
 ## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,python" />
+
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎮 Probability Game Simulator
+Interactive game simulation focusing on logic, randomness, and UI  
 
-Interactive game simulation focusing on logic, randomness, and UI
-
-🔗 Repo: https://github.com/amranskibidi/Casino-Amran444
+🔗 https://github.com/amranskibidi/Casino-Amran444  
 
 ---
 
-### 🌐 Landing expression Website
+### 🌐 Landing Expression Website
+I made this to vent my sadness  
 
-I made this to vent my sadness
-
-🔗 Repo: https://github.com/amranskibidi/Website-Qoute-Sad
+🔗 https://github.com/amranskibidi/Website-Qoute-Sad  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amranskibidi\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amranskibidi\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amranskibidi&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amranskibidi&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌍 Connect With Me
 
-* 📧 Email: **[amrannihbos2@gmail.com](mailto:amrannihbos2@gmail.com)**
+* 📧 Email: **amrannihbos2@gmail.com**
 * 🐙 GitHub: https://github.com/amranskibidi
 * 🌐 Portfolio: coming soon...
 * 💼 LinkedIn: coming soon...
@@ -64,3 +73,13 @@ I made this to vent my sadness
 ## 💡 Quote
 
 > "Consistency beats talent when talent doesn’t stay consistent."
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200"/>
+</p>
+
+<p align="center">
+  <b>Keep coding like Rin — calm, focused, and consistent 🏕️</b>
+</p>
